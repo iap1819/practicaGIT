@@ -34,7 +34,7 @@ namespace WindowsFormsApp1
             }
             else if (miAlumno.Nota < 7)
             {
-                miAlumnoNotaTexto = "Aprobado";
+                miAlumnoNotaTexto = "Aprobadoo";
             }
             else if (miAlumno.Nota < 9)
             {
